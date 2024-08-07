@@ -1,1 +1,1 @@
-Get market value of currencies of all Countries
+Get currency values of all countries according to the market rates.
